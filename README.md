@@ -8,6 +8,9 @@ This tool is intended only for educational and testing purposes. Unauthorized us
 
 📌 I do not condone or take responsibility for any misuse of this tool. Use it responsibly and within legal boundaries.
 
+# Setup
+Download the setup file and follow the instructions.
+
 # 🚧 Coming Soon...
 I am working alone on this multi-tool, and future updates will bring:
 
