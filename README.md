@@ -1,16 +1,15 @@
-# Lem-XD
+Lem-XD – The Ultimate Multi-Tool for Developers & Security Testing
+🚀 What is Lem-XD?
+Lem-XD is a versatile multi-tool designed for Discord automation, development, and ethical security testing. Whether you're a developer, security researcher, or tech enthusiast, Lem-XD provides powerful features for legal use in controlled environments.
 
-# What the f___ is "Lem-XD"
-Lem-XD the most complete multi-tool for discord, developement, and legal hacking.
+⚠️ Legal & Ethical Disclaimer
+This tool is intended only for educational and testing purposes. Unauthorized use against systems, networks, or services without explicit permission may violate laws such as the Computer Fraud and Abuse Act (CFAA) and could result in severe penalties, including fines and imprisonment.
 
-# Direct note
-I am NOT responsible for any misuse of this tool, here the bad things that could happen:
-Computer Fraud and Abuse Act (CFAA) → Up to 10 years in prison and huge fines for disrupting a government system.
-If classified as cyberterrorism, penalties could be even more severe.
-This tool was made for educational purposes and testing purposes ONLY, as I said I am NOT responsible for any misuse of this tool.
+📌 I do not condone or take responsibility for any misuse of this tool. Use it responsibly and within legal boundaries.
 
-# Coming soon..
-I am working alone on this multi-tool and there will be demos, test versions, etc.
-Every update will make the tool more complete!
+🚧 Coming Soon...
+I am working alone on this multi-tool, and future updates will bring:
 
-Enjoy!
+🔹 New features
+🔹 Bug fixes
+🔹 Improved performance
